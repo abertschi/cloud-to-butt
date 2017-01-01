@@ -7,4 +7,11 @@ di-to-master-di
 
 This is your Chrome extension *Master Di*, download it here:
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](./master-di-chrome-extension.crx)
+
+## How to install
+- Download the extension
+- Open the extension page in Chrome (Window/ Extensions)
+- Drag and drop the extension onto the pane
+ -  Important: Due to chrome security reasons, a simple open and run will not work and result into a
+_Extensions, apps, and user scripts cannot be installed from this web site_.
