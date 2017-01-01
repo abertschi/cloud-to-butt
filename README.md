@@ -7,7 +7,7 @@ di-to-master-di
 
 This is your Chrome extension *Master Di*, download it here:
 
-[Direct download of crx file](./master-di-chrome-extension.crx)
+[Direct download of crx file](https://github.com/abertschi/di-to-master-di/blob/master/master-di-chrome-extension.crx?raw=true)
 
 ## How to install
 - Download the extension
